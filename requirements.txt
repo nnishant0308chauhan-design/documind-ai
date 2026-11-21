@@ -1,0 +1,14 @@
+# Core Web Framework
+streamlit>=1.35.0
+
+# Google Gemini Official SDK
+google-genai>=3.0.0
+
+# Document & PDF Extraction
+pypdf>=5.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Numerical Processing for Semantic RAG
+numpy>=1.24.0
